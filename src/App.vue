@@ -7,7 +7,7 @@
     >
       <div class="d-flex align-center">
         <v-text class="display-1">
-          Login Page
+          Login page
         </v-text>
       </div>
 
